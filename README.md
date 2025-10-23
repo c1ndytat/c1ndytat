@@ -1,4 +1,4 @@
-Hi, my name is Cindy Tat
+Hi, my name is Cindy Tat :)
 ==================================================================================================================================
 
 Software Engineering '29 @San Jose State University
